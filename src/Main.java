@@ -26,6 +26,7 @@ public class Main {
         System.out.println("На каждого ученика рассчитано " + papersPerson + " листов бумаги");
 
 
+
         // task 4
         int efficiency = 16;
         int time = 20;
